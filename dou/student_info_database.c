@@ -1,5 +1,6 @@
 #include<stdio.h>
 #define SIZE 30
+
 struct student {
 	int num;
 	char name[30];
